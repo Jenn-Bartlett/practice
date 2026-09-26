@@ -1,4 +1,3 @@
-console.log("hellow world");
-
+alert("uhoh!")
 
 
